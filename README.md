@@ -1,4 +1,4 @@
-# Hi, I'm Ash Solano! 👋
+# Hi, I'm Ashleigh Solano! 👋
 
 I'm a PhD student at the University of Melbourne, School of Physics, specializing in Cellular Biophysics. I'm passionate about studying protein spatiotemporal dynamics using live cell microscopy techniques and developing tools using FCS (Fluorescence Correlation Spectroscopy).
 
